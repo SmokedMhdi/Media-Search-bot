@@ -1,4 +1,4 @@
-pypyrogram~=2.0.35
+pyrogram~=2.0.35
 pymongo[srv]>=4.0.0
 motor>=3.1.1
 marshmallow==3.14.1
